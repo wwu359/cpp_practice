@@ -1,0 +1,3 @@
+/home/echo/code/cpp_practice/student_project/build/CMakeFiles/main.dir
+/home/echo/code/cpp_practice/student_project/build/CMakeFiles/edit_cache.dir
+/home/echo/code/cpp_practice/student_project/build/CMakeFiles/rebuild_cache.dir
